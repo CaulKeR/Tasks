@@ -1,0 +1,2 @@
+insert into `task_db`.`task` (Summary, StartDate, EndDate, Assignee) values ('Create web page', '2015-06-01', '2015-06-02', 'John Smith');
+insert into `task_db`.`task` (Summary, StartDate, EndDate, Assignee) values ('Test created page', '2015-06-02', '2015-06-04', 'Alan Paul');
